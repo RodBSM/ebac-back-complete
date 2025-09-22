@@ -1,0 +1,6 @@
+[submodule "ebac-back-m-7"]
+	path = ebac-back-m-7
+	url = git@github.com:RodBSM/ebac-back-m-7.git
+[submodule "ebac-back-m-6"]
+	path = ebac-back-m-6
+	url = git@github.com:RodBSM/ebac-back-m-6.git
