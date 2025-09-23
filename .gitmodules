@@ -7,3 +7,15 @@
 [submodule "ebac-back-m-1"]
 	path = ebac-back-m-1
 	url = git@github.com:RodBSM/ebac-back-m-1.git
+[submodule "ebac-back-m-2"]
+	path = ebac-back-m-2
+	url = git@github.com:RodBSM/ebac-back-m-2.git
+[submodule "ebac-back-m-3"]
+	path = ebac-back-m-3
+	url = git@github.com:RodBSM/ebac-back-m-3.git
+[submodule "ebac-back-m-4"]
+	path = ebac-back-m-4
+	url = git@github.com:RodBSM/ebac-back-m-4.git
+[submodule "ebac-back-m-5"]
+	path = ebac-back-m-5
+	url = git@github.com:RodBSM/ebac-back-m-5.git
